@@ -10,16 +10,6 @@ Simply use:
 pip install modelagnosticsafeaipackage
 
 
-# GitHub
-
-https://github.com/GolnooshBabaei/safeaipackage/tree/modelagnostic
-
-
-# Example
-
-On GitHub, in the folder "examples", there is a notebook including an example that can help you to understand the functioanlity of this package. 
-
-
 # Citations
 
 The proposed measures in this package came primarily out of research by 
